@@ -14,7 +14,7 @@
   <builders>
     <hudson.tasks.Shell>
       <command>echo $PATH
-./hello.sh &quot;Tacos 4 Life! BRA&quot;</command>
+hello.sh &quot;Tacos 4 Life! BRA&quot;</command>
     </hudson.tasks.Shell>
   </builders>
   <publishers/>
