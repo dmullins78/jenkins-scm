@@ -13,7 +13,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>hello.sh &quot;Tacos 4 Life! BRA&quot;</command>
+      <command>./hello.sh &quot;Tacos 4 Life! BRA&quot;</command>
     </hudson.tasks.Shell>
   </builders>
   <publishers/>
